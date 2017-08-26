@@ -1,0 +1,8 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\bin\Release\Static7.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static7\obj\x86\Release\Static7.exe

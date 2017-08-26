@@ -1,0 +1,10 @@
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.pdb
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+C:\Users\Alex CBS\Desktop\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\bin\Release\Static.pdb
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\007_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.exe
+D:\COURSES\CS\CS_Essential_RU\CS_Essential_RU\006_StaticClasses\001_StaticMembers\Static\obj\x86\Release\Static.pdb
