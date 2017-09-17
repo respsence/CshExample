@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\005_Attributes\bin\Release\005_Attributes.exe
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\005_Attributes\bin\Release\005_Attributes.pdb
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\005_Attributes\obj\x86\Release\005_Attributes.exe
+C:\Cources\C# Professional\007 - Атрибуты\007 - Атрибуты\005_Attributes\obj\x86\Release\005_Attributes.pdb
