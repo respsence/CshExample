@@ -1,0 +1,9 @@
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\obj\x86\Debug\PathDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\obj\x86\Debug\PathDemo.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\bin\Debug\PathDemo.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\bin\Debug\PathDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\obj\x86\Debug\PathDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\obj\x86\Debug\PathDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\bin\Debug\PathDemo.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\bin\Debug\PathDemo.pdb
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\PathDemo\obj\x86\Debug\003_PathDemo.csprojResolveAssemblyReference.cache

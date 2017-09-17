@@ -1,0 +1,7 @@
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\obj\x86\Debug\FileInfo_Copy.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\obj\x86\Debug\FileInfo_Copy.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\bin\Debug\FileInfo_Copy.exe
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\bin\Debug\FileInfo_Copy.pdb
+C:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\obj\x86\Debug\001_FileInfo_Copy.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\obj\x86\Debug\FileInfo_Copy.exe
+D:\Cources\C# Professional\003 - IO\003 - Программирование ввода-вывода\002 - Microsoft Input Output\001 - Navigation\FileInfo_Copy\obj\x86\Debug\FileInfo_Copy.pdb
