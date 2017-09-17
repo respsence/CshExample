@@ -1,0 +1,12 @@
+c:\users\oleg\documents\visual studio 2012\Projects\GetKeyByValue\GetKeyByValue\bin\Debug\GetKeyByValue.exe.config
+c:\users\oleg\documents\visual studio 2012\Projects\GetKeyByValue\GetKeyByValue\bin\Debug\GetKeyByValue.exe
+c:\users\oleg\documents\visual studio 2012\Projects\GetKeyByValue\GetKeyByValue\bin\Debug\GetKeyByValue.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\GetKeyByValue\GetKeyByValue\obj\Debug\GetKeyByValue.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\Projects\GetKeyByValue\GetKeyByValue\obj\Debug\GetKeyByValue.exe
+c:\users\oleg\documents\visual studio 2012\Projects\GetKeyByValue\GetKeyByValue\obj\Debug\GetKeyByValue.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\ADD_GetKeyByValue\GetKeyByValue\bin\Debug\GetKeyByValue.exe.config
+C:\Cources\C# Professional\002 - Системные коллекции\ADD_GetKeyByValue\GetKeyByValue\obj\Debug\GetKeyByValue.exe
+C:\Cources\C# Professional\002 - Системные коллекции\ADD_GetKeyByValue\GetKeyByValue\obj\Debug\GetKeyByValue.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\ADD_GetKeyByValue\GetKeyByValue\bin\Debug\GetKeyByValue.exe
+C:\Cources\C# Professional\002 - Системные коллекции\ADD_GetKeyByValue\GetKeyByValue\bin\Debug\GetKeyByValue.pdb
+C:\Cources\C# Professional\002 - Системные коллекции\ADD_GetKeyByValue\GetKeyByValue\obj\Debug\GetKeyByValue.csprojResolveAssemblyReference.cache

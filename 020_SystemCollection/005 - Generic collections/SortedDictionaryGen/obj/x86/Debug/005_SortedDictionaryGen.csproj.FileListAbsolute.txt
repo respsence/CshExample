@@ -1,0 +1,2 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedDictionaryGen\obj\x86\Debug\SortedDictionaryGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedDictionaryGen\obj\x86\Debug\SortedDictionaryGen.pdb

@@ -1,0 +1,5 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\DictionaryGen\obj\x86\Debug\DictionaryGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\DictionaryGen\obj\x86\Debug\DictionaryGen.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\DictionaryGen\bin\Debug\DictionaryGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\DictionaryGen\bin\Debug\DictionaryGen.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\DictionaryGen\obj\x86\Debug\003_DictionaryGen.csprojResolveAssemblyReference.cache

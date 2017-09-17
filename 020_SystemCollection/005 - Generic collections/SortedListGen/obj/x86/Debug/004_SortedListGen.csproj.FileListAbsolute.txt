@@ -1,0 +1,2 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\SortedListGen\obj\x86\Debug\SortedListGen.pdb

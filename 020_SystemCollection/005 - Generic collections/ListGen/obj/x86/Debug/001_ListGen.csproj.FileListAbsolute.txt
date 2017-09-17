@@ -1,0 +1,5 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\ListGen\obj\x86\Debug\ListGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\ListGen\obj\x86\Debug\ListGen.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\ListGen\bin\Debug\ListGen.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\ListGen\bin\Debug\ListGen.pdb
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\ListGen\obj\x86\Debug\001_ListGen.csprojResolveAssemblyReference.cache

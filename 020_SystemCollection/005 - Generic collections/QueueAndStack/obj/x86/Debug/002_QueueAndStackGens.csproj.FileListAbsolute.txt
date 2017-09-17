@@ -1,0 +1,2 @@
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.exe
+D:\Cources\C# Professional\002 - Системные коллекции\002 - Системные коллекции\005 - Generic collections\QueueAndStack\obj\x86\Debug\QueueAndStack.pdb
