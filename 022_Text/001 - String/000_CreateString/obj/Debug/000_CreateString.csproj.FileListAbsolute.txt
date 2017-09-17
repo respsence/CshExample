@@ -1,0 +1,1 @@
+C:\Cources\C# Professional\004 - Работа с текстом\004 - Работа с текстом\001 - Работа со строками\000_CreateString\bin\Debug\000_CreateString.exe.config
