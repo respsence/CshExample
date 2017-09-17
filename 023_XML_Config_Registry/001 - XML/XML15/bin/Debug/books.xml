@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ListOfBooks>
+  <InsertBefore>insert_before</InsertBefore>
+  <Book>
+    <Title FontSize="8">Title-1</Title>
+    <Price>50</Price>
+    <AppendChild>append_child</AppendChild>
+  </Book>
+  <InsertAfter>insert_after</InsertAfter>
+  <InsertBefore>1111111111</InsertBefore>
+  <Book>
+    <Title FontSize="10">Title-2</Title>
+    <Price>150</Price>
+    <AppendChild>3333333333</AppendChild>
+  </Book>
+  <InsertAfter>2222222222</InsertAfter>
+</ListOfBooks>

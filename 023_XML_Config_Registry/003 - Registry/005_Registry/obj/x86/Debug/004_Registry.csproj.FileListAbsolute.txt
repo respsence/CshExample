@@ -1,0 +1,15 @@
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\005_Registry\bin\Debug\005_Registry.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\005_Registry\bin\Debug\005_Registry.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\005_Registry\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\005_Registry\obj\x86\Debug\005_Registry.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Работа с реестром в .NET\005_Registry\obj\x86\Debug\005_Registry.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\bin\Debug\005_Registry.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\bin\Debug\005_Registry.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\obj\x86\Debug\005_Registry.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\obj\x86\Debug\005_Registry.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\obj\x86\Debug\005_Registry.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\obj\x86\Debug\005_Registry.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\bin\Debug\005_Registry.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\bin\Debug\005_Registry.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\003 - Registry\005_Registry\obj\x86\Debug\004_Registry.csprojResolveAssemblyReference.cache

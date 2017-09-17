@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML16\bin\Debug\books.xml
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML16\bin\Debug\XML15.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML16\bin\Debug\XML15.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML16\obj\x86\Debug\XML15.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML16\obj\x86\Debug\XML15.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML16\obj\x86\Debug\013_XML.csprojResolveAssemblyReference.cache

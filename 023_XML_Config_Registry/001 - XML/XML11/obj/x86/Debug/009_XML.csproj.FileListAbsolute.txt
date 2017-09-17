@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML11\bin\Debug\XML11.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML11\bin\Debug\XML11.pdb
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML11\obj\x86\Debug\XML11.exe
+C:\Cources\C# Professional\005 - XML. Файлы конфигурации. Реестр\005 - XML. Файлы конфигурации. Реестр\001 - XML\XML11\obj\x86\Debug\XML11.pdb
