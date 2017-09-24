@@ -1,0 +1,39 @@
+D:\Proof\Proof\bin\Debug\Proof.exe
+D:\Proof\Proof\bin\Debug\Proof.pdb
+D:\Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+D:\Proof\Proof\obj\Debug\Proof.exe
+D:\Proof\Proof\obj\Debug\Proof.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\014_Proof\Proof\obj\Debug\Proof.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\014_Proof\Proof\obj\Debug\Proof.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\014_Proof\Proof\bin\Debug\Proof.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\014_Proof\Proof\bin\Debug\Proof.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\014_Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\014_Proof\Proof\obj\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\014_Proof\Proof\obj\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\014_Proof\Proof\bin\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\014_Proof\Proof\bin\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\014_Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\obj\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\obj\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\bin\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\bin\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\obj\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\014_Proof\Proof\obj\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\014_Proof\Proof\obj\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\014_Proof\Proof\obj\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\014_Proof\Proof\bin\Debug\Proof.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\014_Proof\Proof\bin\Debug\Proof.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\014_Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\014_Proof\Proof\obj\Debug\Proof.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\014_Proof\Proof\obj\Debug\Proof.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\014_Proof\Proof\bin\Debug\Proof.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\014_Proof\Proof\bin\Debug\Proof.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\014_Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\014_Proof\Proof\obj\Debug\Proof.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\014_Proof\Proof\obj\Debug\Proof.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\014_Proof\Proof\bin\Debug\Proof.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\014_Proof\Proof\bin\Debug\Proof.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\014_Proof\Proof\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\005_Compound\002_Proof\obj\Debug\Proof.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\005_Compound\002_Proof\obj\Debug\Proof.pdb

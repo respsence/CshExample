@@ -1,0 +1,27 @@
+D:\Lambda\Lambda\bin\Debug\Lambda.exe
+D:\Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\Lambda\Lambda\obj\Debug\ResolveAssemblyReference.cache
+D:\Lambda\Lambda\obj\Debug\Lambda.exe
+D:\Lambda\Lambda\obj\Debug\Lambda.pdb
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\004_Lambda\Lambda\obj\Debug\Lambda.exe
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\004_Lambda\Lambda\bin\Debug\Lambda.exe
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\004_Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\004_Lambda\Lambda\obj\Debug\ResolveAssemblyReference.cache
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\bin\Debug\Lambda.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\004_Lambda\Lambda\obj\Debug\Lambda.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\004_Lambda\Lambda\obj\Debug\Lambda.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\004_Lambda\Lambda\obj\Debug\Lambda.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\004_Lambda\obj\Debug\Lambda.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\004_Lambda\obj\Debug\Lambda.pdb

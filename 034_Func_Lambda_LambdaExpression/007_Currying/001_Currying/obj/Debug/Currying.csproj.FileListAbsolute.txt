@@ -1,0 +1,37 @@
+D:\Currying\Currying\bin\Debug\Currying.exe
+D:\Currying\Currying\bin\Debug\Currying.pdb
+D:\Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+D:\Currying\Currying\obj\Debug\Currying.exe
+D:\Currying\Currying\obj\Debug\Currying.pdb
+H:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\obj\Debug\Currying.exe
+H:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\obj\Debug\Currying.pdb
+H:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\obj\Debug\Currying.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\obj\Debug\Currying.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\bin\Debug\Currying.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\017_Currying\Currying\bin\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\017_Currying\Currying\obj\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\017_Currying\Currying\obj\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\017_Currying\Currying\bin\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\017_Currying\Currying\bin\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\017_Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\obj\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\obj\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\bin\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\bin\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\obj\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\017_Currying\Currying\obj\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\017_Currying\Currying\obj\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\017_Currying\Currying\obj\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\017_Currying\Currying\bin\Debug\Currying.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\017_Currying\Currying\bin\Debug\Currying.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\017_Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\017_Currying\Currying\obj\Debug\Currying.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\017_Currying\Currying\obj\Debug\Currying.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\017_Currying\Currying\bin\Debug\Currying.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\017_Currying\Currying\bin\Debug\Currying.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\017_Currying\Currying\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\obj\Debug\Currying.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\obj\Debug\Currying.pdb

@@ -1,0 +1,37 @@
+D:\LiambdaExpression\LiambdaExpression\bin\Debug\LiambdaExpression.exe
+D:\LiambdaExpression\LiambdaExpression\bin\Debug\LiambdaExpression.pdb
+D:\LiambdaExpression\LiambdaExpression\obj\Debug\ResolveAssemblyReference.cache
+D:\LiambdaExpression\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\LiambdaExpression\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\DEVELOP\LIAMBDA\003_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\DEVELOP\LIAMBDA\003_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\DEVELOP\LIAMBDA\003_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.exe
+D:\DEVELOP\LIAMBDA\003_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.pdb
+D:\DEVELOP\LIAMBDA\003_LiambdaExTree\LiambdaExpression\obj\Debug\ResolveAssemblyReference.cache
+D:\DEVELOP\LAMBDA\003_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\DEVELOP\LAMBDA\003_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\007_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\007_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\bin\Debug\LiambdaExpression.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\007_LiambdaExTree\LiambdaExpression\obj\Debug\LiambdaExpression.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\001_LambdaExpression\obj\Debug\LiambdaExpression.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\001_LambdaExpression\obj\Debug\LiambdaExpression.pdb

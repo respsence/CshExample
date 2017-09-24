@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\004_LambdaBatchExpression\bin\Debug\004_LambdaBatchExpression.exe.config
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\004_LambdaBatchExpression\bin\Debug\004_LambdaBatchExpression.exe
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\004_LambdaBatchExpression\bin\Debug\004_LambdaBatchExpression.pdb
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\004_LambdaBatchExpression\obj\Debug\004_LambdaBatchExpression.exe
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\004_LambdaBatchExpression\obj\Debug\004_LambdaBatchExpression.pdb
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\002_LambdaExTree\004_LambdaBatchExpression\obj\Debug\004_LambdaBatchExpression.csprojResolveAssemblyReference.cache

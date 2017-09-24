@@ -1,0 +1,30 @@
+D:\LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.exe
+D:\LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.pdb
+D:\LambdaIterator\LambdaIterator\obj\Debug\ResolveAssemblyReference.cache
+D:\LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+D:\LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+D:\DEVELOP\WF DEVELOP\Accelerated C# 2008\Samples\LESSON 015\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\011_LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\011_LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\obj\Debug\LambdaIterator.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\bin\Debug\LambdaIterator.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\011_LambdaIterator\LambdaIterator\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\003_LambdaIterator\002_LambdaIterator\obj\Debug\LambdaIterator.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\003_LambdaIterator\002_LambdaIterator\obj\Debug\LambdaIterator.pdb

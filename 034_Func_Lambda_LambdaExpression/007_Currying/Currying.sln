@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ApplyPartial", "001_Currying\001_ApplyPartial.csproj", "{C926CB22-C1FB-4292-A103-683BF6D93E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Currying", "002_Currying\002_Currying.csproj", "{63604F36-B998-4779-806F-F92DAA6B7CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C926CB22-C1FB-4292-A103-683BF6D93E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C926CB22-C1FB-4292-A103-683BF6D93E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C926CB22-C1FB-4292-A103-683BF6D93E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C926CB22-C1FB-4292-A103-683BF6D93E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63604F36-B998-4779-806F-F92DAA6B7CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63604F36-B998-4779-806F-F92DAA6B7CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63604F36-B998-4779-806F-F92DAA6B7CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63604F36-B998-4779-806F-F92DAA6B7CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

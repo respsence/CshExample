@@ -1,0 +1,5 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\005_Lambda\obj\Debug\Lambda.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\005_Lambda\obj\Debug\Lambda.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\005_Lambda\bin\Debug\Lambda.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\005_Lambda\bin\Debug\Lambda.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\005_Lambda\obj\Debug\ResolveAssemblyReference.cache

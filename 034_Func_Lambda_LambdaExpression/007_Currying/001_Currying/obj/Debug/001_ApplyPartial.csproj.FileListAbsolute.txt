@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\bin\Debug\Currying.exe.config
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\obj\Debug\Currying.exe
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\obj\Debug\Currying.pdb
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\bin\Debug\Currying.exe
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\007_Currying\001_Currying\bin\Debug\Currying.pdb

@@ -1,0 +1,27 @@
+D:\Compound\Compound\bin\Debug\Compound.exe
+D:\Compound\Compound\bin\Debug\Compound.pdb
+D:\Compound\Compound\obj\Debug\ResolveAssemblyReference.cache
+D:\Compound\Compound\obj\Debug\Compound.exe
+D:\Compound\Compound\obj\Debug\Compound.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\013_Compound\Compound\obj\Debug\Compound.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\013_Compound\Compound\obj\Debug\Compound.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\013_Compound\Compound\obj\Debug\Compound.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\013_Compound\Compound\obj\Debug\Compound.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\013_Compound\Compound\bin\Debug\Compound.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\013_Compound\Compound\bin\Debug\Compound.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\013_Compound\Compound\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\obj\Debug\Compound.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\obj\Debug\Compound.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\bin\Debug\Compound.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\bin\Debug\Compound.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\obj\Debug\Compound.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\013_Compound\Compound\obj\Debug\Compound.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\013_Compound\Compound\obj\Debug\Compound.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\013_Compound\Compound\obj\Debug\Compound.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\013_Compound\Compound\obj\Debug\Compound.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\013_Compound\Compound\obj\Debug\Compound.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\005_Compound\Compound\obj\Debug\Compound.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\005_Compound\Compound\obj\Debug\Compound.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\005_Compound\001_Compound\obj\Debug\Compound.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\005_Compound\001_Compound\obj\Debug\Compound.pdb

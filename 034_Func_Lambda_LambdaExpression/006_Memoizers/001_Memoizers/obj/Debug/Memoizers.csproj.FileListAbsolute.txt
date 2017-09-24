@@ -1,0 +1,36 @@
+D:\Memoizers\Memoizers\bin\Debug\Memoizers.exe
+D:\Memoizers\Memoizers\bin\Debug\Memoizers.pdb
+D:\Memoizers\Memoizers\obj\Debug\ResolveAssemblyReference.cache
+D:\Memoizers\Memoizers\obj\Debug\Memoizers.exe
+D:\Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\015_Memoizers\Memoizers\bin\Debug\Memoizers.exe
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\015_Memoizers\Memoizers\bin\Debug\Memoizers.pdb
+I:\DEVELOP\NET DEVELOP\Accelerated C# 2008\Samples\LES 015 LAMBDA\015_Memoizers\Memoizers\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\012_LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\bin\Debug\Memoizers.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\bin\Debug\Memoizers.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\013_LAMBDA\015_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\015_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\015_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\015_Memoizers\Memoizers\bin\Debug\Memoizers.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\015_Memoizers\Memoizers\bin\Debug\Memoizers.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\015_Lambda\015_Memoizers\Memoizers\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\015_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\015_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\015_Memoizers\Memoizers\bin\Debug\Memoizers.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\015_Memoizers\Memoizers\bin\Debug\Memoizers.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\015_Lambda\015_Memoizers\Memoizers\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\Memoizers\obj\Debug\Memoizers.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\Memoizers\obj\Debug\Memoizers.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\Memoizers\bin\Debug\Memoizers.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\Memoizers\bin\Debug\Memoizers.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\Memoizers\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\001_Memoizers\obj\Debug\Memoizers.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\006_Memoizers\001_Memoizers\obj\Debug\Memoizers.pdb

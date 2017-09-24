@@ -1,0 +1,11 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.pdb
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.exe
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\Lambda.pdb
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\bin\Debug\Lambda.exe
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\bin\Debug\Lambda.pdb
+C:\Cources\C# Professional\016 - Функциональное программирование\016 - Функциональное программирование\001_Lambda\003_Lambda\obj\Debug\003_Lambda.csprojResolveAssemblyReference.cache
