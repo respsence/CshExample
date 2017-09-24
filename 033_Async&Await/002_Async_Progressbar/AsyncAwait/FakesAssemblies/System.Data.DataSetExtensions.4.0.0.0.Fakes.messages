@@ -1,0 +1,9 @@
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.DataRowComparer: type is sealed.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.DataRowComparer`1: type is sealed.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.DataTableExtensions: type is sealed.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.EnumerableRowCollection: type has no family visible contructors.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.EnumerableRowCollection`1: type has no family visible contructors.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.OrderedEnumerableRowCollection`1: type is sealed.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.EnumerableRowCollectionExtensions: type is sealed.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.DataRowExtensions: type is sealed.
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\Fakes\System.Data.DataSetExtensions.fakes : warning : Cannot generate stub for System.Data.TypedTableBaseExtensions: type is sealed.

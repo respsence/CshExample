@@ -1,0 +1,608 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Data.DataSetExtensions.4.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:System.Data.Fakes.ShimDataRowComparer">
+            <summary>Shim type of System.Data.DataRowComparer</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer.DefaultGet">
+            <summary>Sets the shim of DataRowComparer.get_Default()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimDataRowComparer`1">
+            <summary>Shim type of System.Data.DataRowComparer`1</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer`1.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer`1.#ctor(System.Data.DataRowComparer{`0})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer`1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer`1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowComparer`1.Bind(System.Collections.Generic.IEqualityComparer{`0})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.Constructor">
+            <summary>Sets the shim of DataRowComparer`1.DataRowComparer`1()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.DefaultGet">
+            <summary>Sets the shim of DataRowComparer`1.get_Default()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.EqualsT0T0">
+            <summary>Sets the shim of DataRowComparer`1.Equals(!0 leftRow, !0 rightRow)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.GetHashCodeT0">
+            <summary>Sets the shim of DataRowComparer`1.GetHashCode(!0 row)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.StaticConstructor">
+            <summary>Sets the shim of DataRowComparer`1.DataRowComparer`1()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimDataRowComparer`1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.AllInstances.EqualsT0T0">
+            <summary>Sets the shim of DataRowComparer`1.Equals(!0 leftRow, !0 rightRow)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowComparer`1.AllInstances.GetHashCodeT0">
+            <summary>Sets the shim of DataRowComparer`1.GetHashCode(!0 row)</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimDataRowExtensions">
+            <summary>Shim type of System.Data.DataRowExtensions</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.FieldOf1DataRowDataColumn``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.DataRow,System.Data.DataColumn,``0})">
+            <summary>Sets the shim of DataRowExtensions.Field(DataRow row, DataColumn column)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.FieldOf1DataRowDataColumnDataRowVersion``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.DataRow,System.Data.DataColumn,System.Data.DataRowVersion,``0})">
+            <summary>Sets the shim of DataRowExtensions.Field(DataRow row, DataColumn column, DataRowVersion version)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.FieldOf1DataRowInt32``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.DataRow,System.Int32,``0})">
+            <summary>Sets the shim of DataRowExtensions.Field(DataRow row, Int32 columnIndex)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.FieldOf1DataRowInt32DataRowVersion``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.DataRow,System.Int32,System.Data.DataRowVersion,``0})">
+            <summary>Sets the shim of DataRowExtensions.Field(DataRow row, Int32 columnIndex, DataRowVersion version)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.FieldOf1DataRowString``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.DataRow,System.String,``0})">
+            <summary>Sets the shim of DataRowExtensions.Field(DataRow row, String columnName)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.FieldOf1DataRowStringDataRowVersion``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.DataRow,System.String,System.Data.DataRowVersion,``0})">
+            <summary>Sets the shim of DataRowExtensions.Field(DataRow row, String columnName, DataRowVersion version)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.SetFieldOf1DataRowDataColumnM0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{System.Data.DataRow,System.Data.DataColumn,``0})">
+            <summary>Sets the shim of DataRowExtensions.SetField(DataRow row, DataColumn column, !!0 value)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.SetFieldOf1DataRowInt32M0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{System.Data.DataRow,System.Int32,``0})">
+            <summary>Sets the shim of DataRowExtensions.SetField(DataRow row, Int32 columnIndex, !!0 value)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataRowExtensions.SetFieldOf1DataRowStringM0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{System.Data.DataRow,System.String,``0})">
+            <summary>Sets the shim of DataRowExtensions.SetField(DataRow row, String columnName, !!0 value)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataRowExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimDataTableExtensions">
+            <summary>Shim type of System.Data.DataTableExtensions</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.AsDataViewOf1EnumerableRowCollectionOfM0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Data.DataView})">
+            <summary>Sets the shim of DataTableExtensions.AsDataView(EnumerableRowCollection`1&lt;!!0&gt; source)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.CopyToDataTableOf1IEnumerableOfM0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Collections.Generic.IEnumerable{``0},System.Data.DataTable})">
+            <summary>Sets the shim of DataTableExtensions.CopyToDataTable(IEnumerable`1&lt;!!0&gt; source)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.CopyToDataTableOf1IEnumerableOfM0DataTableLoadOption``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{System.Collections.Generic.IEnumerable{``0},System.Data.DataTable,System.Data.LoadOption})">
+            <summary>Sets the shim of DataTableExtensions.CopyToDataTable(IEnumerable`1&lt;!!0&gt; source, DataTable table, LoadOption options)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimDataTableExtensions.CopyToDataTableOf1IEnumerableOfM0DataTableLoadOptionFillErrorEventHandler``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Action{System.Collections.Generic.IEnumerable{``0},System.Data.DataTable,System.Data.LoadOption,System.Data.FillErrorEventHandler})">
+            <summary>Sets the shim of DataTableExtensions.CopyToDataTable(IEnumerable`1&lt;!!0&gt; source, DataTable table, LoadOption options, FillErrorEventHandler errorHandler)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataTableExtensions.AsDataViewDataTable">
+            <summary>Sets the shim of DataTableExtensions.AsDataView(DataTable table)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataTableExtensions.AsEnumerableDataTable">
+            <summary>Sets the shim of DataTableExtensions.AsEnumerable(DataTable source)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimDataTableExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimEnumerableRowCollection">
+            <summary>Shim type of System.Data.EnumerableRowCollection</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection.#ctor(System.Data.EnumerableRowCollection)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection.Constructor">
+            <summary>Sets the shim of EnumerableRowCollection.EnumerableRowCollection()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of EnumerableRowCollection.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimEnumerableRowCollection.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection.AllInstances.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of EnumerableRowCollection.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimEnumerableRowCollection`1">
+            <summary>Shim type of System.Data.EnumerableRowCollection`1</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection`1.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection`1.#ctor(System.Data.EnumerableRowCollection{`0})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection`1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection`1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection`1.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollection`1.Bind(System.Collections.Generic.IEnumerable{`0})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.Constructor">
+            <summary>Sets the shim of EnumerableRowCollection`1.EnumerableRowCollection`1()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.GetEnumerator">
+            <summary>Sets the shim of EnumerableRowCollection`1.GetEnumerator()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of EnumerableRowCollection`1.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimEnumerableRowCollection`1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.AllInstances.Constructor">
+            <summary>Sets the shim of EnumerableRowCollection`1.EnumerableRowCollection`1()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.AllInstances.GetEnumerator">
+            <summary>Sets the shim of EnumerableRowCollection`1.GetEnumerator()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollection`1.AllInstances.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of EnumerableRowCollection`1.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimEnumerableRowCollectionExtensions">
+            <summary>Shim type of System.Data.EnumerableRowCollectionExtensions</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.CastOf1EnumerableRowCollection``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection,System.Data.EnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.Cast(EnumerableRowCollection source)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.OrderByDescendingOf2EnumerableRowCollectionOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Func{``0,``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.OrderByDescending(EnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.OrderByDescendingOf2EnumerableRowCollectionOfM0FuncOfM0M1IComparerOfM1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.OrderByDescending(EnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector, IComparer`1&lt;!!1&gt; comparer)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.OrderByOf2EnumerableRowCollectionOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Func{``0,``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.OrderBy(EnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.OrderByOf2EnumerableRowCollectionOfM0FuncOfM0M1IComparerOfM1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.OrderBy(EnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector, IComparer`1&lt;!!1&gt; comparer)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.SelectOf2EnumerableRowCollectionOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Func{``0,``1},System.Data.EnumerableRowCollection{``1}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.Select(EnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; selector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.ThenByDescendingOf2OrderedEnumerableRowCollectionOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.OrderedEnumerableRowCollection{``0},System.Func{``0,``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.ThenByDescending(OrderedEnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.ThenByDescendingOf2OrderedEnumerableRowCollectionOfM0FuncOfM0M1IComparerOfM1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.OrderedEnumerableRowCollection{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.ThenByDescending(OrderedEnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector, IComparer`1&lt;!!1&gt; comparer)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.ThenByOf2OrderedEnumerableRowCollectionOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.OrderedEnumerableRowCollection{``0},System.Func{``0,``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.ThenBy(OrderedEnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.ThenByOf2OrderedEnumerableRowCollectionOfM0FuncOfM0M1IComparerOfM1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.OrderedEnumerableRowCollection{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.ThenBy(OrderedEnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector, IComparer`1&lt;!!1&gt; comparer)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.WhereOf1EnumerableRowCollectionOfM0FuncOfM0Boolean``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0},System.Func{``0,System.Boolean},System.Data.EnumerableRowCollection{``0}})">
+            <summary>Sets the shim of EnumerableRowCollectionExtensions.Where(EnumerableRowCollection`1&lt;!!0&gt; source, Func`2&lt;!!0,Boolean&gt; predicate)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimEnumerableRowCollectionExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1">
+            <summary>Shim type of System.Data.OrderedEnumerableRowCollection`1</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.#ctor(System.Data.OrderedEnumerableRowCollection{`0})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.Bind(System.Collections.Generic.IEnumerable{`0})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.Constructor">
+            <summary>Sets the shim of OrderedEnumerableRowCollection`1.OrderedEnumerableRowCollection`1()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimOrderedEnumerableRowCollection`1.AllInstances.Constructor">
+            <summary>Sets the shim of OrderedEnumerableRowCollection`1.OrderedEnumerableRowCollection`1()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimTypedTableBase`1">
+            <summary>Shim type of System.Data.TypedTableBase`1</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.#ctor(System.Data.TypedTableBase{`0})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.ComponentModel.IListSource)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.ComponentModel.ISupportInitialize)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.ComponentModel.ISupportInitializeNotification)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.Xml.Serialization.IXmlSerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.IServiceProvider)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.Collections.Generic.IEnumerable{`0})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.CastOf1``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.EnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBase`1.Cast()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.Constructor">
+            <summary>Sets the shim of TypedTableBase`1.TypedTableBase`1()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.ConstructorSerializationInfoStreamingContext">
+            <summary>Sets the shim of TypedTableBase`1.TypedTableBase`1(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.GetEnumerator">
+            <summary>Sets the shim of TypedTableBase`1.GetEnumerator()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of TypedTableBase`1.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimTypedTableBase`1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBase`1.AllInstances.CastOf1``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{`0},System.Data.EnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBase`1.Cast()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.AllInstances.GetEnumerator">
+            <summary>Sets the shim of TypedTableBase`1.GetEnumerator()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBase`1.AllInstances.SystemCollectionsIEnumerableGetEnumerator">
+            <summary>Sets the shim of TypedTableBase`1.System.Collections.IEnumerable.GetEnumerator()</summary>
+        </member>
+        <member name="T:System.Data.Fakes.ShimTypedTableBaseExtensions">
+            <summary>Shim type of System.Data.TypedTableBaseExtensions</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.AsEnumerableOf1TypedTableBaseOfM0``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Data.EnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.AsEnumerable(TypedTableBase`1&lt;!!0&gt; source)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.ElementAtOrDefaultOf1TypedTableBaseOfM0Int32``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Int32,``0})">
+            <summary>Sets the shim of TypedTableBaseExtensions.ElementAtOrDefault(TypedTableBase`1&lt;!!0&gt; source, Int32 index)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.OrderByDescendingOf2TypedTableBaseOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Func{``0,``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.OrderByDescending(TypedTableBase`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.OrderByDescendingOf2TypedTableBaseOfM0FuncOfM0M1IComparerOfM1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.OrderByDescending(TypedTableBase`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector, IComparer`1&lt;!!1&gt; comparer)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.OrderByOf2TypedTableBaseOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Func{``0,``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.OrderBy(TypedTableBase`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.OrderByOf2TypedTableBaseOfM0FuncOfM0M1IComparerOfM1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1},System.Data.OrderedEnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.OrderBy(TypedTableBase`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; keySelector, IComparer`1&lt;!!1&gt; comparer)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.SelectOf2TypedTableBaseOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Func{``0,``1},System.Data.EnumerableRowCollection{``1}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.Select(TypedTableBase`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; selector)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.ShimTypedTableBaseExtensions.WhereOf1TypedTableBaseOfM0FuncOfM0Boolean``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Data.TypedTableBase{``0},System.Func{``0,System.Boolean},System.Data.EnumerableRowCollection{``0}})">
+            <summary>Sets the shim of TypedTableBaseExtensions.Where(TypedTableBase`1&lt;!!0&gt; source, Func`2&lt;!!0,Boolean&gt; predicate)</summary>
+        </member>
+        <member name="P:System.Data.Fakes.ShimTypedTableBaseExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="T:System.Data.Fakes.StubTypedTableBase`1">
+            <summary>Stub type of System.Data.TypedTableBase`1</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.AttachBackingFieldToSite">
+            <summary>Attaches delegates to emulate StubTypedTableBase.Site as a property with a backing field.</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.BeginInit">
+            <summary>Sets the stub of DataTable.BeginInit()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.BeginInit01">
+            <summary>Sets the stub of DataTable.BeginInit()</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.Clone">
+            <summary>Sets the stub of DataTable.Clone()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.Clone01">
+            <summary>Sets the stub of DataTable.Clone()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.ContainerGet">
+            <summary>Sets the stub of MarshalByValueComponent.get_Container()</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.CreateInstance">
+            <summary>Sets the stub of DataTable.CreateInstance()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.CreateInstance01">
+            <summary>Sets the stub of DataTable.CreateInstance()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.DesignModeGet">
+            <summary>Sets the stub of MarshalByValueComponent.get_DesignMode()</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.Dispose(System.Boolean)">
+            <summary>Sets the stub of MarshalByValueComponent.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.DisposeBoolean">
+            <summary>Sets the stub of MarshalByValueComponent.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.EndInit">
+            <summary>Sets the stub of DataTable.EndInit()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.EndInit01">
+            <summary>Sets the stub of DataTable.EndInit()</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Sets the stub of DataTable.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Sets the stub of DataTable.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.GetRowType">
+            <summary>Sets the stub of DataTable.GetRowType()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.GetRowType01">
+            <summary>Sets the stub of DataTable.GetRowType()</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.GetSchema">
+            <summary>Sets the stub of DataTable.GetSchema()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.GetSchema01">
+            <summary>Sets the stub of DataTable.GetSchema()</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.GetService(System.Type)">
+            <summary>Sets the stub of MarshalByValueComponent.GetService(Type service)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.GetServiceType">
+            <summary>Sets the stub of MarshalByValueComponent.GetService(Type service)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.InitializeStub">
+            <summary>Initializes a new instance of type StubTypedTableBase</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.Load(System.Data.IDataReader,System.Data.LoadOption,System.Data.FillErrorEventHandler)">
+            <summary>Sets the stub of DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.LoadIDataReaderLoadOptionFillErrorEventHandler">
+            <summary>Sets the stub of DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.NewRowFromBuilder(System.Data.DataRowBuilder)">
+            <summary>Sets the stub of DataTable.NewRowFromBuilder(DataRowBuilder builder)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.NewRowFromBuilderDataRowBuilder">
+            <summary>Sets the stub of DataTable.NewRowFromBuilder(DataRowBuilder builder)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnColumnChanged(System.Data.DataColumnChangeEventArgs)">
+            <summary>Sets the stub of DataTable.OnColumnChanged(DataColumnChangeEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnColumnChangedDataColumnChangeEventArgs">
+            <summary>Sets the stub of DataTable.OnColumnChanged(DataColumnChangeEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnColumnChanging(System.Data.DataColumnChangeEventArgs)">
+            <summary>Sets the stub of DataTable.OnColumnChanging(DataColumnChangeEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnColumnChangingDataColumnChangeEventArgs">
+            <summary>Sets the stub of DataTable.OnColumnChanging(DataColumnChangeEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnPropertyChanging(System.ComponentModel.PropertyChangedEventArgs)">
+            <summary>Sets the stub of DataTable.OnPropertyChanging(PropertyChangedEventArgs pcevent)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnPropertyChangingPropertyChangedEventArgs">
+            <summary>Sets the stub of DataTable.OnPropertyChanging(PropertyChangedEventArgs pcevent)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnRemoveColumn(System.Data.DataColumn)">
+            <summary>Sets the stub of DataTable.OnRemoveColumn(DataColumn column)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnRemoveColumnDataColumn">
+            <summary>Sets the stub of DataTable.OnRemoveColumn(DataColumn column)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnRowChanged(System.Data.DataRowChangeEventArgs)">
+            <summary>Sets the stub of DataTable.OnRowChanged(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnRowChangedDataRowChangeEventArgs">
+            <summary>Sets the stub of DataTable.OnRowChanged(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnRowChanging(System.Data.DataRowChangeEventArgs)">
+            <summary>Sets the stub of DataTable.OnRowChanging(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnRowChangingDataRowChangeEventArgs">
+            <summary>Sets the stub of DataTable.OnRowChanging(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnRowDeleted(System.Data.DataRowChangeEventArgs)">
+            <summary>Sets the stub of DataTable.OnRowDeleted(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnRowDeletedDataRowChangeEventArgs">
+            <summary>Sets the stub of DataTable.OnRowDeleted(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnRowDeleting(System.Data.DataRowChangeEventArgs)">
+            <summary>Sets the stub of DataTable.OnRowDeleting(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnRowDeletingDataRowChangeEventArgs">
+            <summary>Sets the stub of DataTable.OnRowDeleting(DataRowChangeEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnTableCleared(System.Data.DataTableClearEventArgs)">
+            <summary>Sets the stub of DataTable.OnTableCleared(DataTableClearEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnTableClearedDataTableClearEventArgs">
+            <summary>Sets the stub of DataTable.OnTableCleared(DataTableClearEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnTableClearing(System.Data.DataTableClearEventArgs)">
+            <summary>Sets the stub of DataTable.OnTableClearing(DataTableClearEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnTableClearingDataTableClearEventArgs">
+            <summary>Sets the stub of DataTable.OnTableClearing(DataTableClearEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.OnTableNewRow(System.Data.DataTableNewRowEventArgs)">
+            <summary>Sets the stub of DataTable.OnTableNewRow(DataTableNewRowEventArgs e)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.OnTableNewRowDataTableNewRowEventArgs">
+            <summary>Sets the stub of DataTable.OnTableNewRow(DataTableNewRowEventArgs e)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.ReadXmlSerializable(System.Xml.XmlReader)">
+            <summary>Sets the stub of DataTable.ReadXmlSerializable(XmlReader reader)</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.ReadXmlSerializableXmlReader">
+            <summary>Sets the stub of DataTable.ReadXmlSerializable(XmlReader reader)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.Reset">
+            <summary>Sets the stub of DataTable.Reset()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.Reset01">
+            <summary>Sets the stub of DataTable.Reset()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.SiteGet">
+            <summary>Sets the stub of DataTable.get_Site()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.SiteSetISite">
+            <summary>Sets the stub of DataTable.set_Site(ISite value)</summary>
+        </member>
+        <member name="M:System.Data.Fakes.StubTypedTableBase`1.ToString">
+            <summary>Sets the stub of DataTable.ToString()</summary>
+        </member>
+        <member name="F:System.Data.Fakes.StubTypedTableBase`1.ToString01">
+            <summary>Sets the stub of DataTable.ToString()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.StubTypedTableBase`1.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:System.Data.Fakes.StubTypedTableBase`1.Container">
+            <summary>Sets the stub of MarshalByValueComponent.get_Container()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.StubTypedTableBase`1.DesignMode">
+            <summary>Sets the stub of MarshalByValueComponent.get_DesignMode()</summary>
+        </member>
+        <member name="P:System.Data.Fakes.StubTypedTableBase`1.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:System.Data.Fakes.StubTypedTableBase`1.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="P:System.Data.Fakes.StubTypedTableBase`1.Site">
+            <summary>Sets the stub of DataTable.get_Site()</summary>
+        </member>
+    </members>
+</doc>

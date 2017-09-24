@@ -1,0 +1,14 @@
+C:\Cources\C# 5 async and await\Code\CallerInformation\bin\Debug\CallerInformation.exe.config
+C:\Cources\C# 5 async and await\Code\CallerInformation\obj\Debug\CallerInformation.exe
+C:\Cources\C# 5 async and await\Code\CallerInformation\obj\Debug\CallerInformation.pdb
+C:\Cources\C# 5 async and await\001 C#5\Code\CallerInformation\bin\Debug\CallerInformation.exe.config
+C:\Cources\C# 5 async and await\001 C#5\Code\CallerInformation\obj\Debug\CallerInformation.exe
+C:\Cources\C# 5 async and await\001 C#5\Code\CallerInformation\obj\Debug\CallerInformation.pdb
+C:\Cources\C# 5 async and await\001 C#5\Code\CallerInformation\bin\Debug\CallerInformation.exe
+C:\Cources\C# 5 async and await\001 C#5\Code\CallerInformation\bin\Debug\CallerInformation.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\001_Async&Await\CallerInformation\bin\Debug\CallerInformation.exe.config
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\001_Async&Await\CallerInformation\obj\Debug\CallerInformation.exe
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\001_Async&Await\CallerInformation\obj\Debug\CallerInformation.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\001_Async&Await\CallerInformation\bin\Debug\CallerInformation.exe
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\001_Async&Await\CallerInformation\bin\Debug\CallerInformation.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\001_Async&Await\CallerInformation\obj\Debug\021_CallerInformation.csprojResolveAssemblyReference.cache

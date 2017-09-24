@@ -1,0 +1,26 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>GetData</title>
+</head>
+<body>
+    <div>
+        Ответ от удаленной службы :
+        <br />
+
+        @ViewBag.Message
+
+        <br />
+
+        Поток IIS: @ViewBag.IISThreadId. 
+        <br/>
+        @ViewBag.МоеСвойство;
+        
+    </div>
+</body>
+</html>

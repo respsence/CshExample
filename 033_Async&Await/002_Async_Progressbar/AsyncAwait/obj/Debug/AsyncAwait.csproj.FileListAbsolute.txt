@@ -1,0 +1,34 @@
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.AsyncDemoForm.resources
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Users\Richard\Desktop\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.AsyncDemoForm.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\obj\Debug\AsyncAwait.AsyncDemoForm.resources
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\AsyncAwait_Progress\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\obj\Debug\AsyncAwait.AsyncDemoForm.resources
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Cources\C# Professional\015 - C# 5.0 Async & Await\ADD_Async_Progressbar\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
