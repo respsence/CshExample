@@ -1,0 +1,10 @@
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\UntrustedCode\bin\Debug\UntrustedCode.dll
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\UntrustedCode\bin\Debug\UntrustedCode.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\UntrustedCode\obj\Debug\UntrustedCode.dll
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\UntrustedCode\obj\Debug\UntrustedCode.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\UntrustedCode\obj\Debug\UntrustedCode.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\UntrustedCode\bin\Debug\UntrustedCode.dll
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\UntrustedCode\bin\Debug\UntrustedCode.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\UntrustedCode\obj\Debug\UntrustedCode.dll
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\UntrustedCode\obj\Debug\UntrustedCode.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\UntrustedCode\obj\Debug\UntrustedCode.csprojResolveAssemblyReference.cache

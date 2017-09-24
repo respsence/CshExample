@@ -1,0 +1,22 @@
+D:\MultyDomainApp\App2\bin\Debug\App2.exe
+D:\MultyDomainApp\App2\bin\Debug\App2.pdb
+D:\MultyDomainApp\App2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MultyDomainApp\App2\obj\x86\Debug\App2.exe
+D:\MultyDomainApp\App2\obj\x86\Debug\App2.pdb
+D:\MultyDomainApp\MultyDomainApp\bin\Debug\App2.exe
+D:\MultyDomainApp\MultyDomainApp\bin\Debug\App2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App2.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Domains\002_MultyDomainApp\App2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\014_Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App2.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\014_Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App2.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\014_Domains\002_MultyDomainApp\App2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\014_Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\014_Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App2.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\002_MultyDomainApp\MultyDomainApp\bin\Debug\App2.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\002_MultyDomainApp\App2\obj\x86\Debug\App2.pdb

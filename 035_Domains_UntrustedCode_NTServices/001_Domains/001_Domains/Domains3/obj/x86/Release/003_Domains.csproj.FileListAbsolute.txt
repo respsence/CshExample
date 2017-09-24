@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains3\bin\Release\Domains3.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains3\bin\Release\Domains3.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains3\obj\x86\Release\Domains3.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains3\obj\x86\Release\Domains3.pdb

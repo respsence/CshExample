@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains\obj\x86\Release\001_Domains.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains\bin\Release\Domains.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains\bin\Release\Domains.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains\obj\x86\Release\Domains.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\001_Domains\001_Domains\Domains\obj\x86\Release\Domains.pdb

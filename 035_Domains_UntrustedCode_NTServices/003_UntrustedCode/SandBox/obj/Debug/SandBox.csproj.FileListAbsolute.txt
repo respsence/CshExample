@@ -1,0 +1,12 @@
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\SandBox\bin\Debug\SandBox.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\SandBox\obj\Debug\SandBox.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\SandBox\bin\Debug\SandBox.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\SandBox\obj\Debug\SandBox.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\SandBox\UntrustedCode\SandBox\obj\Debug\SandBox.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\obj\Debug\SandBox.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\obj\Debug\SandBox.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\bin\Debug\SandBox.exe
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\bin\Debug\SandBox.pdb
+C:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\obj\Debug\SandBox.csprojResolveAssemblyReference.cache
+D:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\obj\Debug\SandBox.exe
+D:\Cources\C# Professional\017 - Домены приложений. NT-службы\003_UntrustedCode\SandBox\obj\Debug\SandBox.pdb

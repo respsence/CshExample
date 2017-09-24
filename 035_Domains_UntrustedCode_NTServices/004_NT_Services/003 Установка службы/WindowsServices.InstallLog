@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.exe
+Installing service ===== TEST SERVICE =====...
+Service ===== TEST SERVICE ===== has been successfully installed.
+Creating EventLog source ===== TEST SERVICE ===== in log Application...
+Committing assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.exe
+Uninstalling assembly 'C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.InstallLog
+   assemblypath = C:\Cources\C# Professional\017 - Домены приложений. NT-службы\004_Services\003 Установка службы\WindowsServices.exe
+Removing EventLog source ===== TEST SERVICE =====.
+Service ===== TEST SERVICE ===== is being removed from the system...
+Service ===== TEST SERVICE ===== was successfully removed from the system.
