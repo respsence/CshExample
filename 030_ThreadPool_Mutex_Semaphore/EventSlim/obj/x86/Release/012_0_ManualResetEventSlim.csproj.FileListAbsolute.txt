@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\EventSlim\obj\x86\Release\EventSlim.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\EventSlim\obj\x86\Release\EventSlim.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\EventSlim\bin\Release\EventSlim.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\EventSlim\bin\Release\EventSlim.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\EventSlim\obj\x86\Release\012_0_ManualResetEventSlim.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\012_1_ManualresetEventSlimPerformance\bin\Release\012_1_ManualresetEventSlimPerformance.exe.config
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\012_1_ManualresetEventSlimPerformance\obj\Release\012_1_ManualresetEventSlimPerformance.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\012_1_ManualresetEventSlimPerformance\bin\Release\012_1_ManualresetEventSlimPerformance.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\012_1_ManualresetEventSlimPerformance\bin\Release\012_1_ManualresetEventSlimPerformance.pdb
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\012_1_ManualresetEventSlimPerformance\obj\Release\012_1_ManualresetEventSlimPerformance.exe
+C:\Cources\C# Professional\012 - Потоки. Синхронизация\013 - Синхронизация при помощи объектов ядра\012_1_ManualresetEventSlimPerformance\obj\Release\012_1_ManualresetEventSlimPerformance.pdb
