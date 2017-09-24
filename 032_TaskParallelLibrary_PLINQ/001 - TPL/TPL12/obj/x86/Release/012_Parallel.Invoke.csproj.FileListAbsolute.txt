@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL12\bin\Release\TPL12.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL12\bin\Release\TPL12.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL12\obj\x86\Release\TPL12.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL12\obj\x86\Release\TPL12.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL12\obj\x86\Release\012_Parallel.Invoke.csprojResolveAssemblyReference.cache

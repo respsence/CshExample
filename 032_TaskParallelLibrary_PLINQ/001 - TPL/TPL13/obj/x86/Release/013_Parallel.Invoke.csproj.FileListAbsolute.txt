@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL13\bin\Release\TPL13.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL13\bin\Release\TPL13.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL13\obj\x86\Release\TPL13.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL13\obj\x86\Release\TPL13.pdb

@@ -1,0 +1,9 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL9\bin\Release\TPL9.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL9\bin\Release\TPL9.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL9\obj\x86\Release\TPL9.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL9\obj\x86\Release\TPL9.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL9\bin\Release\TPL9.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL9\bin\Release\TPL9.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL9\obj\x86\Release\009_TPL.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL9\obj\x86\Release\TPL9.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL9\obj\x86\Release\TPL9.pdb

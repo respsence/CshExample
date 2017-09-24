@@ -1,0 +1,8 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL17\bin\Release\TPL17.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL17\bin\Release\TPL17.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL17\obj\x86\Release\TPL17.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL17\obj\x86\Release\TPL17.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL17\obj\x86\Release\TPL17.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL17\obj\x86\Release\TPL17.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL17\bin\Release\TPL17.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL17\bin\Release\TPL17.pdb

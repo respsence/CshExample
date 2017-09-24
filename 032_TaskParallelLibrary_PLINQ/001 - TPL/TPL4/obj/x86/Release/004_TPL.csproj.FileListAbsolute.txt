@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL4\bin\Release\TPL4.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL4\bin\Release\TPL4.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL4\obj\x86\Release\004_TPL.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL4\obj\x86\Release\TPL4.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL4\obj\x86\Release\TPL4.pdb

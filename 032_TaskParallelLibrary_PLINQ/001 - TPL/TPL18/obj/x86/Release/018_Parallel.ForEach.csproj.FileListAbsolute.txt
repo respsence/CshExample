@@ -1,0 +1,8 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL18\bin\Release\TPL18.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL18\bin\Release\TPL18.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL18\obj\x86\Release\TPL18.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL18\obj\x86\Release\TPL18.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL18\obj\x86\Release\TPL18.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL18\obj\x86\Release\TPL18.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL18\bin\Release\TPL18.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL18\bin\Release\TPL18.pdb

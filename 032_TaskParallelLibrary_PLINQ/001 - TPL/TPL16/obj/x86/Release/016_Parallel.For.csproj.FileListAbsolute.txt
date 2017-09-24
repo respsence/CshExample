@@ -1,0 +1,10 @@
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL16\bin\Release\TPL16.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL16\bin\Release\TPL16.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL16\obj\x86\Release\TPL16.exe
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL16\obj\x86\Release\TPL16.pdb
+C:\Cources\C# Professional\015 - TPL\015 - TPL\001 - TPL\TPL16\obj\x86\Release\016_Parallel.For.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL16\obj\x86\Release\TPL16.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL16\obj\x86\Release\TPL16.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL16\bin\Release\TPL16.exe
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL16\bin\Release\TPL16.pdb
+C:\Cources\C# Professional\014 - TPL\015 - TPL\001 - TPL\TPL16\obj\x86\Release\016_Parallel.For.csprojResolveAssemblyReference.cache
