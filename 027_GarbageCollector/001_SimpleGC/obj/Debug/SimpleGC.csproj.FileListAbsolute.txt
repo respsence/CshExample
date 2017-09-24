@@ -1,0 +1,68 @@
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\bin\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\bin\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\001_SimpleGC\obj\Debug\SimpleGC.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\bin\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\bin\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\bin\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\bin\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\001_SimpleGC\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\bin\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\bin\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\001_SimpleGC\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\bin\Debug\SimpleGC.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\bin\Debug\SimpleGC.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\ResGen.read.1.tlog
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\001_SimpleGC\obj\Debug\ResGen.write.1.tlog
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\bin\Debug\SimpleGC.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\bin\Debug\SimpleGC.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\ResGen.write.1.tlog
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\bin\Debug\SimpleGC.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\bin\Debug\SimpleGC.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\001_SimpleGC\bin\Debug\SimpleGC.exe.config

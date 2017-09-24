@@ -1,0 +1,7 @@
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.Properties.Resources.resources
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.csproj.GenerateResource.Cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.pdb

@@ -1,0 +1,46 @@
+D:\GCExc\GCExc\bin\Debug\GCExc.exe
+D:\GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+D:\GCExc\GCExc\obj\Debug\GCExc.exe
+D:\GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\obj\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\bin\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\obj\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\bin\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\000_GCExc\GCExc\bin\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\bin\Debug\GCExc.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\GCExc.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\bin\Debug\GCExc.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\ResolveAssemblyReference.cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Debug\GCExc.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Debug\GCExc.exe.config

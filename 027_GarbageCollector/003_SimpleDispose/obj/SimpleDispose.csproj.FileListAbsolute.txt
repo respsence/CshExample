@@ -1,0 +1,9 @@
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\bin\Debug\SimpleDispose.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\bin\Debug\SimpleDispose.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\obj\Debug\SimpleDispose.Properties.Resources.resources
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\obj\Debug\SimpleDispose.csproj.GenerateResource.Cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb

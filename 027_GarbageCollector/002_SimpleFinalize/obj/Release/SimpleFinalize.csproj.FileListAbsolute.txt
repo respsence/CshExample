@@ -1,0 +1,4 @@
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\002_SimpleFinalize\bin\Release\SimpleFinalize.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\002_SimpleFinalize\obj\Release\SimpleFinalize.Properties.Resources.resources
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\002_SimpleFinalize\obj\Release\SimpleFinalize.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\002_SimpleFinalize\obj\Release\SimpleFinalize.exe

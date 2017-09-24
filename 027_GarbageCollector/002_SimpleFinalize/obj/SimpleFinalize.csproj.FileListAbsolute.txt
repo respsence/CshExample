@@ -1,0 +1,7 @@
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\bin\Debug\SimpleFinalize.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\obj\Debug\SimpleFinalize.Properties.Resources.resources
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\obj\Debug\SimpleFinalize.csproj.GenerateResource.Cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\obj\Debug\SimpleFinalize.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\002_SimpleFinalize\obj\Debug\SimpleFinalize.pdb

@@ -1,0 +1,18 @@
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\bin\Debug\SimpleGC.exe
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\bin\Debug\SimpleGC.pdb
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\obj\Debug\SimpleGC.csproj.GenerateResource.Cache
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\obj\Debug\SimpleGC.exe
+D:\MY\BOOKS\PROGRAMMING\Andrew Troelsen\TROELSEN 3 ed\Code TROY\Ch_05 Code\SimpleGC\obj\Debug\SimpleGC.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\obj\Debug\SimpleGC.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\obj\Debug\SimpleGC.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\bin\Debug\SimpleGC.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\bin\Debug\SimpleGC.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\obj\Debug\ResolveAssemblyReference.cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\obj\Debug\SimpleGC.Properties.Resources.resources
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\SimpleGC\obj\Debug\SimpleGC.csproj.GenerateResource.Cache
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\GC\001_SimpleGC\obj\Debug\SimpleGC.pdb
+D:\LESSONS STEP 1 GROUP\LESSON 025\001_SimpleGC\obj\Debug\SimpleGC.exe
+D:\LESSONS STEP 1 GROUP\LESSON 025\001_SimpleGC\obj\Debug\SimpleGC.pdb

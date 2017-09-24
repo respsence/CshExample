@@ -1,0 +1,52 @@
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS_Professional\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\bin\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\bin\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\bin\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\bin\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS\NEW CBS_CS_Pro_BEG\007_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\bin\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\bin\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\C# Professional\009_GC\003_SimpleDispose\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Prof\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+G:\hCBS\00 - Примеры от Саши\CBS_CS_Prof\C# Professional\009_GC\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\bin\Debug\SimpleDispose.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\bin\Debug\SimpleDispose.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.Properties.Resources.resources
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\ResGen.write.1.tlog
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.Properties.Resources.resources
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\003_SimpleDispose\obj\Debug\SimpleDispose.csprojResolveAssemblyReference.cache

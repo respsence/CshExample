@@ -1,0 +1,6 @@
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Release\GCExc.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Release\GCExc.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Release\GCExc.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Release\GCExc.pdb
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\bin\Release\GCExc.exe.config
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\000_GCExc\GCExc\obj\Release\GCExc.csprojResolveAssemblyReference.cache

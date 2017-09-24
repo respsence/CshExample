@@ -1,0 +1,5 @@
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\004_FinalizableDisposableClass\bin\Release\FinalizableDisposableClass.exe
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\004_FinalizableDisposableClass\obj\Release\FinalizableDisposableClass.csprojResolveAssemblyReference.cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\004_FinalizableDisposableClass\obj\Release\FinalizableDisposableClass.Properties.Resources.resources
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\004_FinalizableDisposableClass\obj\Release\FinalizableDisposableClass.csproj.GenerateResource.Cache
+C:\Cources\C# Professional\009 - Сборщик мусора\009 - Сборщик мусора\004_FinalizableDisposableClass\obj\Release\FinalizableDisposableClass.exe
